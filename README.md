@@ -12,7 +12,6 @@
 
 **methSV** is a robust and scalable Nextflow-based framework for extracting and analyzing DNA methylation signals within structural variation (SV) regions using long-read sequencing data.
 
-
 ---
 
 ## Table of Content
@@ -38,11 +37,13 @@
 
 ## Repository Structure
 
+```
 methSV/
 ├── nextflow/ # Main Nextflow pipeline and modules
 ├── demo/ # Demo dataset for quick testing
 ├── data/ # Published results used in our study
 └── shell/ # Shell scripts for preprocessing and analysis
+```
 
 ## Installation
 

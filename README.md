@@ -68,7 +68,12 @@ Or use ./nextflow directly in the repo if not moved to your PATH.
 A minimal test dataset is provided in the demo/ directory. You can test the pipeline as follows:
 ```
 cd nextflow
-nextflow run main.nf -profile test
+nextflow run main.nf \
+    --input_vcf ../demo/sam1.cuteSV_force_calling.genotype.vcf.gz \
+    --sample_id sam1 \
+    --threads 4 \
+    --methylation_bed ../demo/genome.pos \
+    --input_bam ../demo/sam1_chr22_head-5000.bam
 ```
 
 ---
@@ -79,21 +84,24 @@ To run methSV on your own dataset, use the following command:
 
 ```bash
 nextflow run main.nf \
-    --bam your_sample.bam \
-    --vcf your_sv.vcf \
-    --ref your_reference.fa \
-    --outdir results/
+    --input_vcf <your_vcf.gz>
+    --sample_id <sample_ID> \
+    --threads <number of threads> \
+    --methylation_bed <*bed> \
+    --genome_file <genome_features.pos> \
+    --input_bam <your_bam> 
 ```
 
 Required parameters:
 
---bam: ONT-aligned BAM file
-
---vcf: Structural variant file in VCF format
-
---ref: Reference genome in FASTA format
-
---outdir: Directory to store output files
+| Parameter           | Description                                                 |
+| ------------------- | ----------------------------------------------------------- |
+| `--input_vcf`       | Structural variant file (VCF format), e.g., from cuteSV     |
+| `--sample_id`       | Unique identifier for the input sample                      |
+| `--threads`         | Number of threads to use                                    |
+| `--methylation_bed` | BED file containing CpG methylation calls                   |
+| `--genome_file`     | Genome feature position file (e.g., for computing distance) |
+| `--input_bam`       | BAM file aligned to reference genome using ONT reads        |
 
 ---
 

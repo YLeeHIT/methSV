@@ -17,12 +17,14 @@
 ## Table of Content
 
 - [Features](#features)
-    - [Repository Structure](#repository-structure)
-    - [Installation](#installation)
-    - [Quickstart](#quickstart)
-    - [Running](#running)
-    - [Citation](#citation)
-    - [Contact](#contact)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Quickstart](#quickstart)
+- [Running](#running)
+- [Release](#release)
+    - [v1.1 Release Notes](#v11-release-notes)
+- [Citation](#citation)
+- [Contact](#contact)
 
 ---
 
@@ -42,6 +44,7 @@ methSV/
 ├── nextflow/ # Main Nextflow pipeline and modules
 ├── demo/ # Demo dataset for quick testing
 ├── data/ # Published results used in our study
+├── work/ # Nextflow run result instance
 └── shell/ # Shell scripts for preprocessing and analysis
 ```
 
@@ -68,14 +71,13 @@ Or use ./nextflow directly in the repo if not moved to your PATH.
 A minimal test dataset is provided in the demo/ directory. You can test the pipeline as follows:
 ```
 cd nextflow
-nextflow run main.nf \
+nextflow run methSV.nf \
     --input_vcf ../demo/sam1.cuteSV_force_calling.genotype.vcf.gz \
     --sample_id sam1 \
     --threads 4 \
     --methylation_bed ../demo/genome.pos \
     --input_bam ../demo/sam1_chr22_head-5000.bam
 ```
-
 ---
 
 ## Runing
@@ -83,7 +85,7 @@ nextflow run main.nf \
 To run methSV on your own dataset, use the following command:
 
 ```bash
-nextflow run main.nf \
+nextflow run methSV.nf \
     --input_vcf <your_vcf.gz>
     --sample_id <sample_ID> \
     --threads <number of threads> \
@@ -104,6 +106,15 @@ Required parameters:
 | `--input_bam`       | BAM file aligned to reference genome using ONT reads        |
 
 ---
+
+## Release
+
+### v1.1 Release Notes
+
+- Single-threaded Data Processing
+- Structural Variant Preprocessing
+- Methylation Extraction for Deletions
+- Methylation Extraction for Insertions
 
 ## Citation
 If you use methSV in your work, please cite:

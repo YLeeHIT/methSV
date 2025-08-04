@@ -1,0 +1,1 @@
+/home/user/liyang/project/methSV/github/methSV/nextflow/standardize_vcf.sh

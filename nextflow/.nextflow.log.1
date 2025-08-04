@@ -1,0 +1,83 @@
+Aug-03 18:17:42.492 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main_v2.nf --input_vcf ../demo/sam1.cuteSV_force_calling.genotype.vcf.gz --sample_id sam1 --threads 4 --methylation_bed ../demo/sam1_meth.bed --genome_file ../demo/genome.pos --input_bam ../demo/sam1_chr22_head-5000.bam
+Aug-03 18:17:42.798 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 25.04.4
+Aug-03 18:17:42.863 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/home/user/liyang/.nextflow/plugins; core-plugins: nf-amazon@2.15.0,nf-azure@1.16.0,nf-cloudcache@0.4.3,nf-codecommit@0.2.3,nf-console@1.2.1,nf-google@1.21.0,nf-k8s@1.0.0,nf-tower@1.11.3,nf-wave@1.12.1
+Aug-03 18:17:42.976 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Aug-03 18:17:42.979 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Aug-03 18:17:42.986 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+Aug-03 18:17:43.023 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Aug-03 18:17:43.159 [main] DEBUG n.secret.LocalSecretsProvider - Secrets store: /home/user/liyang/.nextflow/secrets/store.json
+Aug-03 18:17:43.177 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@31ff1390] - activable => nextflow.secret.LocalSecretsProvider@31ff1390
+Aug-03 18:17:43.258 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 from script declaration
+Aug-03 18:17:43.308 [main] DEBUG nextflow.cli.CmdRun - Launching `main_v2.nf` [friendly_bartik] DSL2 - revision: ae70ad070f
+Aug-03 18:17:43.312 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+Aug-03 18:17:43.313 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[]
+Aug-03 18:17:43.399 [main] DEBUG nextflow.Session - Session UUID: 0846d589-cc3d-425f-87b1-0feb64d4d44d
+Aug-03 18:17:43.400 [main] DEBUG nextflow.Session - Run name: friendly_bartik
+Aug-03 18:17:43.401 [main] DEBUG nextflow.Session - Executor pool size: 36
+Aug-03 18:17:43.414 [main] DEBUG nextflow.file.FilePorter - File porter settings maxRetries=3; maxTransfers=50; pollTimeout=null
+Aug-03 18:17:43.424 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=108; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+Aug-03 18:17:43.544 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 25.04.4 build 5950
+  Created: 16-06-2025 14:23 UTC (22:23 CDT)
+  System: Linux 3.10.0-1160.105.1.el7.x86_64
+  Runtime: Groovy 4.0.26 on OpenJDK 64-Bit Server VM 17.0.14-internal+0-adhoc..src
+  Encoding: UTF-8 (UTF-8)
+  Process: 88482@ln02 [11.11.11.103]
+  CPUs: 36 - Mem: 251.4 GB (214.6 GB) - Swap: 0 (0)
+Aug-03 18:17:43.638 [main] DEBUG nextflow.Session - Work-dir: /home/user/liyang/project/methSV/github/methSV/nextflow/work [fhgfs]
+Aug-03 18:17:43.640 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/user/liyang/project/methSV/github/methSV/nextflow/bin
+Aug-03 18:17:43.670 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+Aug-03 18:17:43.687 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Aug-03 18:17:43.694 [main] DEBUG nextflow.Session - Observer factory (v2): LinObserverFactory
+Aug-03 18:17:43.736 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+Aug-03 18:17:43.755 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 37; maxThreads: 1000
+Aug-03 18:17:44.110 [main] DEBUG nextflow.Session - Session start
+Aug-03 18:17:45.221 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Aug-03 18:17:45.403 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Aug-03 18:17:45.404 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Aug-03 18:17:45.414 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Aug-03 18:17:45.424 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=36; memory=251.4 GB; capacity=36; pollInterval=100ms; dumpInterval=5m
+Aug-03 18:17:45.427 [main] DEBUG n.processor.TaskPollingMonitor - >>> barrier register (monitor: local)
+Aug-03 18:17:45.491 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'filter_vcf': maxForks=0; fair=false; array=0
+Aug-03 18:17:45.602 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Aug-03 18:17:45.603 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Aug-03 18:17:45.605 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'standardize_vcf': maxForks=0; fair=false; array=0
+Aug-03 18:17:45.650 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Aug-03 18:17:45.651 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Aug-03 18:17:45.653 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'meth_del_annotate': maxForks=0; fair=false; array=0
+Aug-03 18:17:45.672 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Aug-03 18:17:45.673 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Aug-03 18:17:45.675 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'build_ins_bam': maxForks=0; fair=false; array=0
+Aug-03 18:17:45.684 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: filter_vcf, compare_ins_2kb, standardize_vcf, build_ins_bam, meth_del_annotate
+Aug-03 18:17:45.687 [main] DEBUG nextflow.Session - Igniting dataflow network (4)
+Aug-03 18:17:45.688 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > filter_vcf
+Aug-03 18:17:45.689 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > standardize_vcf
+Aug-03 18:17:45.690 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > meth_del_annotate
+Aug-03 18:17:45.691 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > build_ins_bam
+Aug-03 18:17:45.693 [main] DEBUG nextflow.script.ScriptRunner - Parsed script files:
+  Script_26a59894a376bf35: /home/user/liyang/project/methSV/github/methSV/nextflow/main_v2.nf
+Aug-03 18:17:45.694 [main] DEBUG nextflow.script.ScriptRunner - > Awaiting termination 
+Aug-03 18:17:45.694 [main] DEBUG nextflow.Session - Session await
+Aug-03 18:17:46.036 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Aug-03 18:17:46.049 [Task submitter] INFO  nextflow.Session - [18/55fa70] Submitted process > filter_vcf (sam1)
+Aug-03 18:17:46.408 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: filter_vcf (sam1); status: COMPLETED; exit: 0; error: -; workDir: /home/user/liyang/project/methSV/github/methSV/nextflow/work/18/55fa7062589ded1e2245711e4e5e28]
+Aug-03 18:17:46.412 [Task monitor] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'TaskFinalizer' minSize=10; maxSize=108; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+Aug-03 18:17:46.561 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Aug-03 18:17:46.562 [Task submitter] INFO  nextflow.Session - [11/a5bfab] Submitted process > standardize_vcf (sam1)
+Aug-03 18:17:47.695 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: standardize_vcf (sam1); status: COMPLETED; exit: 0; error: -; workDir: /home/user/liyang/project/methSV/github/methSV/nextflow/work/11/a5bfabc359dcf1014ca63f6703628b]
+Aug-03 18:17:47.827 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Aug-03 18:17:47.828 [Task submitter] INFO  nextflow.Session - [c7/e1b4f6] Submitted process > build_ins_bam (sam1)
+Aug-03 18:17:47.845 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Aug-03 18:17:47.846 [Task submitter] INFO  nextflow.Session - [f9/7bd089] Submitted process > meth_del_annotate (sam1)
+Aug-03 18:17:50.174 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: meth_del_annotate (sam1); status: COMPLETED; exit: 0; error: -; workDir: /home/user/liyang/project/methSV/github/methSV/nextflow/work/f9/7bd089e50d575de4dfa3347beec8b2]
+Aug-03 18:21:23.183 [SIGINT handler] DEBUG nextflow.Session - Session aborted -- Cause: SIGINT
+Aug-03 18:21:23.224 [Task monitor] DEBUG n.processor.TaskPollingMonitor - <<< barrier arrives (monitor: local) - terminating tasks monitor poll loop
+Aug-03 18:21:23.237 [main] DEBUG nextflow.Session - Session await > all processes finished
+Aug-03 18:21:23.238 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Aug-03 18:21:23.249 [main] WARN  n.processor.TaskPollingMonitor - Killing running tasks (1)
+Aug-03 18:21:23.281 [main] DEBUG n.executor.local.LocalTaskHandler - Unable to kill build_ins_bam (sam1) -- command: kill -TERM 89199; exit: 1 
+ bash: line 0: kill: (89199) - No such process
+
+Aug-03 18:21:23.312 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=3; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=1; succeedDuration=3.6s; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=2; peakCpus=2; peakMemory=0; ]
+Aug-03 18:21:23.341 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+Aug-03 18:21:23.365 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

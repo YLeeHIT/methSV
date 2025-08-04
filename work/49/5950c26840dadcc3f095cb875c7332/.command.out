@@ -1,0 +1,928 @@
+Processing region: chr22_10572410
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10572410/meth/sam1_chr22_10572410.ins
+Writing INS-level summary to out/chr22_10572410/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10628802
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10628802/meth/sam1_chr22_10628802.ins
+Writing INS-level summary to out/chr22_10628802/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10698833
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10698833/meth/sam1_chr22_10698833.ins
+Writing INS-level summary to out/chr22_10698833/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10703917
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10703917/meth/sam1_chr22_10703917.ins
+Writing INS-level summary to out/chr22_10703917/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10726852
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10726852/meth/sam1_chr22_10726852.ins
+Writing INS-level summary to out/chr22_10726852/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10727696
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10727696/meth/sam1_chr22_10727696.ins
+Writing INS-level summary to out/chr22_10727696/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10728991
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10728991/meth/sam1_chr22_10728991.ins
+Writing INS-level summary to out/chr22_10728991/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10729044
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10729044/meth/sam1_chr22_10729044.ins
+Writing INS-level summary to out/chr22_10729044/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_10731924
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_10731924/meth/sam1_chr22_10731924.ins
+Writing INS-level summary to out/chr22_10731924/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_11213818
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Writing CpG-level output to out/chr22_11213818/meth/sam1_chr22_11213818.ins
+Writing INS-level summary to out/chr22_11213818/result/sam1.ins
+Appended to summary: out/sam1.meth
+Processing region: chr22_11373209
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_11373209/sam1_chr22_11373209.fm, out/chr22_11373209/sam1_chr22_11373209_fa.fa
+Processing region: chr22_11373258
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_11373258/sam1_chr22_11373258.fm, out/chr22_11373258/sam1_chr22_11373258_fa.fa
+Processing region: chr22_11953926
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_11953926/sam1_chr22_11953926.fm, out/chr22_11953926/sam1_chr22_11953926_fa.fa
+Processing region: chr22_12373804
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_12373804/sam1_chr22_12373804.fm, out/chr22_12373804/sam1_chr22_12373804_fa.fa
+Processing region: chr22_12374615
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_12374615/sam1_chr22_12374615.fm, out/chr22_12374615/sam1_chr22_12374615_fa.fa
+Processing region: chr22_12493815
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_12493815/sam1_chr22_12493815.fm, out/chr22_12493815/sam1_chr22_12493815_fa.fa
+Processing region: chr22_12637691
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_12637691/sam1_chr22_12637691.fm, out/chr22_12637691/sam1_chr22_12637691_fa.fa
+Processing region: chr22_15428790
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_15428790/sam1_chr22_15428790.fm, out/chr22_15428790/sam1_chr22_15428790_fa.fa
+Processing region: chr22_15470097
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_15470097/sam1_chr22_15470097.fm, out/chr22_15470097/sam1_chr22_15470097_fa.fa
+Processing region: chr22_15630722
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_15630722/sam1_chr22_15630722.fm, out/chr22_15630722/sam1_chr22_15630722_fa.fa
+Processing region: chr22_15830538
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_15830538/sam1_chr22_15830538.fm, out/chr22_15830538/sam1_chr22_15830538_fa.fa
+Processing region: chr22_15953015
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_15953015/sam1_chr22_15953015.fm, out/chr22_15953015/sam1_chr22_15953015_fa.fa
+Processing region: chr22_16034791
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16034791/sam1_chr22_16034791.fm, out/chr22_16034791/sam1_chr22_16034791_fa.fa
+Processing region: chr22_16056714
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16056714/sam1_chr22_16056714.fm, out/chr22_16056714/sam1_chr22_16056714_fa.fa
+Processing region: chr22_16065503
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16065503/sam1_chr22_16065503.fm, out/chr22_16065503/sam1_chr22_16065503_fa.fa
+Processing region: chr22_16243436
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16243436/sam1_chr22_16243436.fm, out/chr22_16243436/sam1_chr22_16243436_fa.fa
+Processing region: chr22_16483635
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16483635/sam1_chr22_16483635.fm, out/chr22_16483635/sam1_chr22_16483635_fa.fa
+Processing region: chr22_16515589
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16515589/sam1_chr22_16515589.fm, out/chr22_16515589/sam1_chr22_16515589_fa.fa
+Processing region: chr22_16534435
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16534435/sam1_chr22_16534435.fm, out/chr22_16534435/sam1_chr22_16534435_fa.fa
+Processing region: chr22_16534483
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16534483/sam1_chr22_16534483.fm, out/chr22_16534483/sam1_chr22_16534483_fa.fa
+Processing region: chr22_16606856
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16606856/sam1_chr22_16606856.fm, out/chr22_16606856/sam1_chr22_16606856_fa.fa
+Processing region: chr22_16701033
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_16701033/sam1_chr22_16701033.fm, out/chr22_16701033/sam1_chr22_16701033_fa.fa
+Processing region: chr22_17224401
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_17224401/sam1_chr22_17224401.fm, out/chr22_17224401/sam1_chr22_17224401_fa.fa
+Processing region: chr22_17524555
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_17524555/sam1_chr22_17524555.fm, out/chr22_17524555/sam1_chr22_17524555_fa.fa
+Processing region: chr22_18028747
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18028747/sam1_chr22_18028747.fm, out/chr22_18028747/sam1_chr22_18028747_fa.fa
+Processing region: chr22_18185969
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18185969/sam1_chr22_18185969.fm, out/chr22_18185969/sam1_chr22_18185969_fa.fa
+Processing region: chr22_18731808
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18731808/sam1_chr22_18731808.fm, out/chr22_18731808/sam1_chr22_18731808_fa.fa
+Processing region: chr22_18733689
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18733689/sam1_chr22_18733689.fm, out/chr22_18733689/sam1_chr22_18733689_fa.fa
+Processing region: chr22_18734172
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18734172/sam1_chr22_18734172.fm, out/chr22_18734172/sam1_chr22_18734172_fa.fa
+Processing region: chr22_18891291
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_18891291/sam1_chr22_18891291.fm, out/chr22_18891291/sam1_chr22_18891291_fa.fa
+Processing region: chr22_19160582
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_19160582/sam1_chr22_19160582.fm, out/chr22_19160582/sam1_chr22_19160582_fa.fa
+Processing region: chr22_19202393
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_19202393/sam1_chr22_19202393.fm, out/chr22_19202393/sam1_chr22_19202393_fa.fa
+Processing region: chr22_19291837
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_19291837/sam1_chr22_19291837.fm, out/chr22_19291837/sam1_chr22_19291837_fa.fa
+Processing region: chr22_19907419
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_19907419/sam1_chr22_19907419.fm, out/chr22_19907419/sam1_chr22_19907419_fa.fa
+Processing region: chr22_19919235
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_19919235/sam1_chr22_19919235.fm, out/chr22_19919235/sam1_chr22_19919235_fa.fa
+Processing region: chr22_20075561
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20075561/sam1_chr22_20075561.fm, out/chr22_20075561/sam1_chr22_20075561_fa.fa
+Processing region: chr22_20162304
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20162304/sam1_chr22_20162304.fm, out/chr22_20162304/sam1_chr22_20162304_fa.fa
+Processing region: chr22_20162490
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20162490/sam1_chr22_20162490.fm, out/chr22_20162490/sam1_chr22_20162490_fa.fa
+Processing region: chr22_20225213
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20225213/sam1_chr22_20225213.fm, out/chr22_20225213/sam1_chr22_20225213_fa.fa
+Processing region: chr22_20251924
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20251924/sam1_chr22_20251924.fm, out/chr22_20251924/sam1_chr22_20251924_fa.fa
+Processing region: chr22_20268314
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20268314/sam1_chr22_20268314.fm, out/chr22_20268314/sam1_chr22_20268314_fa.fa
+Processing region: chr22_20338036
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20338036/sam1_chr22_20338036.fm, out/chr22_20338036/sam1_chr22_20338036_fa.fa
+Processing region: chr22_20359400
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20359400/sam1_chr22_20359400.fm, out/chr22_20359400/sam1_chr22_20359400_fa.fa
+Processing region: chr22_20503710
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20503710/sam1_chr22_20503710.fm, out/chr22_20503710/sam1_chr22_20503710_fa.fa
+Processing region: chr22_20955490
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_20955490/sam1_chr22_20955490.fm, out/chr22_20955490/sam1_chr22_20955490_fa.fa
+Processing region: chr22_21039498
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_21039498/sam1_chr22_21039498.fm, out/chr22_21039498/sam1_chr22_21039498_fa.fa
+Processing region: chr22_22120825
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_22120825/sam1_chr22_22120825.fm, out/chr22_22120825/sam1_chr22_22120825_fa.fa
+Processing region: chr22_22131976
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_22131976/sam1_chr22_22131976.fm, out/chr22_22131976/sam1_chr22_22131976_fa.fa
+Processing region: chr22_22179736
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_22179736/sam1_chr22_22179736.fm, out/chr22_22179736/sam1_chr22_22179736_fa.fa
+Processing region: chr22_22183059
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_22183059/sam1_chr22_22183059.fm, out/chr22_22183059/sam1_chr22_22183059_fa.fa
+Processing region: chr22_22644847
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_22644847/sam1_chr22_22644847.fm, out/chr22_22644847/sam1_chr22_22644847_fa.fa
+Processing region: chr22_23530489
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_23530489/sam1_chr22_23530489.fm, out/chr22_23530489/sam1_chr22_23530489_fa.fa
+Processing region: chr22_25345891
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_25345891/sam1_chr22_25345891.fm, out/chr22_25345891/sam1_chr22_25345891_fa.fa
+Processing region: chr22_25349126
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_25349126/sam1_chr22_25349126.fm, out/chr22_25349126/sam1_chr22_25349126_fa.fa
+Processing region: chr22_25436553
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_25436553/sam1_chr22_25436553.fm, out/chr22_25436553/sam1_chr22_25436553_fa.fa
+Processing region: chr22_25820046
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_25820046/sam1_chr22_25820046.fm, out/chr22_25820046/sam1_chr22_25820046_fa.fa
+Processing region: chr22_26209991
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_26209991/sam1_chr22_26209991.fm, out/chr22_26209991/sam1_chr22_26209991_fa.fa
+Processing region: chr22_26557750
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_26557750/sam1_chr22_26557750.fm, out/chr22_26557750/sam1_chr22_26557750_fa.fa
+Processing region: chr22_27325136
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_27325136/sam1_chr22_27325136.fm, out/chr22_27325136/sam1_chr22_27325136_fa.fa
+Processing region: chr22_27725556
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_27725556/sam1_chr22_27725556.fm, out/chr22_27725556/sam1_chr22_27725556_fa.fa
+Processing region: chr22_28537317
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_28537317/sam1_chr22_28537317.fm, out/chr22_28537317/sam1_chr22_28537317_fa.fa
+Processing region: chr22_28730264
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_28730264/sam1_chr22_28730264.fm, out/chr22_28730264/sam1_chr22_28730264_fa.fa
+Processing region: chr22_29120082
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_29120082/sam1_chr22_29120082.fm, out/chr22_29120082/sam1_chr22_29120082_fa.fa
+Processing region: chr22_30597424
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_30597424/sam1_chr22_30597424.fm, out/chr22_30597424/sam1_chr22_30597424_fa.fa
+Processing region: chr22_31226494
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_31226494/sam1_chr22_31226494.fm, out/chr22_31226494/sam1_chr22_31226494_fa.fa
+Processing region: chr22_31355855
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_31355855/sam1_chr22_31355855.fm, out/chr22_31355855/sam1_chr22_31355855_fa.fa
+Processing region: chr22_32331013
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_32331013/sam1_chr22_32331013.fm, out/chr22_32331013/sam1_chr22_32331013_fa.fa
+Processing region: chr22_32572436
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_32572436/sam1_chr22_32572436.fm, out/chr22_32572436/sam1_chr22_32572436_fa.fa
+Processing region: chr22_32931818
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_32931818/sam1_chr22_32931818.fm, out/chr22_32931818/sam1_chr22_32931818_fa.fa
+Processing region: chr22_33124360
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_33124360/sam1_chr22_33124360.fm, out/chr22_33124360/sam1_chr22_33124360_fa.fa
+Processing region: chr22_33132513
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_33132513/sam1_chr22_33132513.fm, out/chr22_33132513/sam1_chr22_33132513_fa.fa
+Processing region: chr22_34034610
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_34034610/sam1_chr22_34034610.fm, out/chr22_34034610/sam1_chr22_34034610_fa.fa
+Processing region: chr22_34363017
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_34363017/sam1_chr22_34363017.fm, out/chr22_34363017/sam1_chr22_34363017_fa.fa
+Processing region: chr22_34396624
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_34396624/sam1_chr22_34396624.fm, out/chr22_34396624/sam1_chr22_34396624_fa.fa
+Processing region: chr22_34784745
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_34784745/sam1_chr22_34784745.fm, out/chr22_34784745/sam1_chr22_34784745_fa.fa
+Processing region: chr22_35170371
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35170371/sam1_chr22_35170371.fm, out/chr22_35170371/sam1_chr22_35170371_fa.fa
+Processing region: chr22_35343306
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35343306/sam1_chr22_35343306.fm, out/chr22_35343306/sam1_chr22_35343306_fa.fa
+Processing region: chr22_35463497
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35463497/sam1_chr22_35463497.fm, out/chr22_35463497/sam1_chr22_35463497_fa.fa
+Processing region: chr22_35533643
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35533643/sam1_chr22_35533643.fm, out/chr22_35533643/sam1_chr22_35533643_fa.fa
+Processing region: chr22_35578409
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35578409/sam1_chr22_35578409.fm, out/chr22_35578409/sam1_chr22_35578409_fa.fa
+Processing region: chr22_35630245
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_35630245/sam1_chr22_35630245.fm, out/chr22_35630245/sam1_chr22_35630245_fa.fa
+Processing region: chr22_36126435
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_36126435/sam1_chr22_36126435.fm, out/chr22_36126435/sam1_chr22_36126435_fa.fa
+Processing region: chr22_36680096
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_36680096/sam1_chr22_36680096.fm, out/chr22_36680096/sam1_chr22_36680096_fa.fa
+Processing region: chr22_36959116
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_36959116/sam1_chr22_36959116.fm, out/chr22_36959116/sam1_chr22_36959116_fa.fa
+Processing region: chr22_37097705
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37097705/sam1_chr22_37097705.fm, out/chr22_37097705/sam1_chr22_37097705_fa.fa
+Processing region: chr22_37227203
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37227203/sam1_chr22_37227203.fm, out/chr22_37227203/sam1_chr22_37227203_fa.fa
+Processing region: chr22_37484417
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37484417/sam1_chr22_37484417.fm, out/chr22_37484417/sam1_chr22_37484417_fa.fa
+Processing region: chr22_37491609
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37491609/sam1_chr22_37491609.fm, out/chr22_37491609/sam1_chr22_37491609_fa.fa
+Processing region: chr22_37529118
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37529118/sam1_chr22_37529118.fm, out/chr22_37529118/sam1_chr22_37529118_fa.fa
+Processing region: chr22_37723798
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37723798/sam1_chr22_37723798.fm, out/chr22_37723798/sam1_chr22_37723798_fa.fa
+Processing region: chr22_37786715
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_37786715/sam1_chr22_37786715.fm, out/chr22_37786715/sam1_chr22_37786715_fa.fa
+Processing region: chr22_38110038
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38110038/sam1_chr22_38110038.fm, out/chr22_38110038/sam1_chr22_38110038_fa.fa
+Processing region: chr22_38110049
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38110049/sam1_chr22_38110049.fm, out/chr22_38110049/sam1_chr22_38110049_fa.fa
+Processing region: chr22_38189161
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38189161/sam1_chr22_38189161.fm, out/chr22_38189161/sam1_chr22_38189161_fa.fa
+Processing region: chr22_38613414
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38613414/sam1_chr22_38613414.fm, out/chr22_38613414/sam1_chr22_38613414_fa.fa
+Processing region: chr22_38644315
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38644315/sam1_chr22_38644315.fm, out/chr22_38644315/sam1_chr22_38644315_fa.fa
+Processing region: chr22_38644510
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38644510/sam1_chr22_38644510.fm, out/chr22_38644510/sam1_chr22_38644510_fa.fa
+Processing region: chr22_38644534
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_38644534/sam1_chr22_38644534.fm, out/chr22_38644534/sam1_chr22_38644534_fa.fa
+Processing region: chr22_39211644
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39211644/sam1_chr22_39211644.fm, out/chr22_39211644/sam1_chr22_39211644_fa.fa
+Processing region: chr22_39220328
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39220328/sam1_chr22_39220328.fm, out/chr22_39220328/sam1_chr22_39220328_fa.fa
+Processing region: chr22_39566002
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39566002/sam1_chr22_39566002.fm, out/chr22_39566002/sam1_chr22_39566002_fa.fa
+Processing region: chr22_39596214
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39596214/sam1_chr22_39596214.fm, out/chr22_39596214/sam1_chr22_39596214_fa.fa
+Processing region: chr22_39602018
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39602018/sam1_chr22_39602018.fm, out/chr22_39602018/sam1_chr22_39602018_fa.fa
+Processing region: chr22_39698775
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39698775/sam1_chr22_39698775.fm, out/chr22_39698775/sam1_chr22_39698775_fa.fa
+Processing region: chr22_39730960
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_39730960/sam1_chr22_39730960.fm, out/chr22_39730960/sam1_chr22_39730960_fa.fa
+Processing region: chr22_40007328
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40007328/sam1_chr22_40007328.fm, out/chr22_40007328/sam1_chr22_40007328_fa.fa
+Processing region: chr22_40498275
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40498275/sam1_chr22_40498275.fm, out/chr22_40498275/sam1_chr22_40498275_fa.fa
+Processing region: chr22_40501011
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40501011/sam1_chr22_40501011.fm, out/chr22_40501011/sam1_chr22_40501011_fa.fa
+Processing region: chr22_40501707
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40501707/sam1_chr22_40501707.fm, out/chr22_40501707/sam1_chr22_40501707_fa.fa
+Processing region: chr22_40537050
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40537050/sam1_chr22_40537050.fm, out/chr22_40537050/sam1_chr22_40537050_fa.fa
+Processing region: chr22_40744914
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40744914/sam1_chr22_40744914.fm, out/chr22_40744914/sam1_chr22_40744914_fa.fa
+Processing region: chr22_40745441
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_40745441/sam1_chr22_40745441.fm, out/chr22_40745441/sam1_chr22_40745441_fa.fa
+Processing region: chr22_41050234
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41050234/sam1_chr22_41050234.fm, out/chr22_41050234/sam1_chr22_41050234_fa.fa
+Processing region: chr22_41050312
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41050312/sam1_chr22_41050312.fm, out/chr22_41050312/sam1_chr22_41050312_fa.fa
+Processing region: chr22_41294877
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41294877/sam1_chr22_41294877.fm, out/chr22_41294877/sam1_chr22_41294877_fa.fa
+Processing region: chr22_41326338
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41326338/sam1_chr22_41326338.fm, out/chr22_41326338/sam1_chr22_41326338_fa.fa
+Processing region: chr22_41835232
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41835232/sam1_chr22_41835232.fm, out/chr22_41835232/sam1_chr22_41835232_fa.fa
+Processing region: chr22_41939809
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_41939809/sam1_chr22_41939809.fm, out/chr22_41939809/sam1_chr22_41939809_fa.fa
+Processing region: chr22_42323868
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_42323868/sam1_chr22_42323868.fm, out/chr22_42323868/sam1_chr22_42323868_fa.fa
+Processing region: chr22_42950410
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_42950410/sam1_chr22_42950410.fm, out/chr22_42950410/sam1_chr22_42950410_fa.fa
+Processing region: chr22_43078827
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43078827/sam1_chr22_43078827.fm, out/chr22_43078827/sam1_chr22_43078827_fa.fa
+Processing region: chr22_43192596
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43192596/sam1_chr22_43192596.fm, out/chr22_43192596/sam1_chr22_43192596_fa.fa
+Processing region: chr22_43280396
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43280396/sam1_chr22_43280396.fm, out/chr22_43280396/sam1_chr22_43280396_fa.fa
+Processing region: chr22_43432643
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43432643/sam1_chr22_43432643.fm, out/chr22_43432643/sam1_chr22_43432643_fa.fa
+Processing region: chr22_43475479
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43475479/sam1_chr22_43475479.fm, out/chr22_43475479/sam1_chr22_43475479_fa.fa
+Processing region: chr22_43499916
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43499916/sam1_chr22_43499916.fm, out/chr22_43499916/sam1_chr22_43499916_fa.fa
+Processing region: chr22_43730259
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43730259/sam1_chr22_43730259.fm, out/chr22_43730259/sam1_chr22_43730259_fa.fa
+Processing region: chr22_43784547
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43784547/sam1_chr22_43784547.fm, out/chr22_43784547/sam1_chr22_43784547_fa.fa
+Processing region: chr22_43913420
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43913420/sam1_chr22_43913420.fm, out/chr22_43913420/sam1_chr22_43913420_fa.fa
+Processing region: chr22_43980050
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_43980050/sam1_chr22_43980050.fm, out/chr22_43980050/sam1_chr22_43980050_fa.fa
+Processing region: chr22_44213762
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44213762/sam1_chr22_44213762.fm, out/chr22_44213762/sam1_chr22_44213762_fa.fa
+Processing region: chr22_44235441
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44235441/sam1_chr22_44235441.fm, out/chr22_44235441/sam1_chr22_44235441_fa.fa
+Processing region: chr22_44302613
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44302613/sam1_chr22_44302613.fm, out/chr22_44302613/sam1_chr22_44302613_fa.fa
+Processing region: chr22_44606868
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44606868/sam1_chr22_44606868.fm, out/chr22_44606868/sam1_chr22_44606868_fa.fa
+Processing region: chr22_44653281
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44653281/sam1_chr22_44653281.fm, out/chr22_44653281/sam1_chr22_44653281_fa.fa
+Processing region: chr22_44984160
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_44984160/sam1_chr22_44984160.fm, out/chr22_44984160/sam1_chr22_44984160_fa.fa
+Processing region: chr22_45080363
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45080363/sam1_chr22_45080363.fm, out/chr22_45080363/sam1_chr22_45080363_fa.fa
+Processing region: chr22_45166719
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45166719/sam1_chr22_45166719.fm, out/chr22_45166719/sam1_chr22_45166719_fa.fa
+Processing region: chr22_45240786
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45240786/sam1_chr22_45240786.fm, out/chr22_45240786/sam1_chr22_45240786_fa.fa
+Processing region: chr22_45282199
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45282199/sam1_chr22_45282199.fm, out/chr22_45282199/sam1_chr22_45282199_fa.fa
+Processing region: chr22_45328393
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45328393/sam1_chr22_45328393.fm, out/chr22_45328393/sam1_chr22_45328393_fa.fa
+Processing region: chr22_45890690
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_45890690/sam1_chr22_45890690.fm, out/chr22_45890690/sam1_chr22_45890690_fa.fa
+Processing region: chr22_46095499
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46095499/sam1_chr22_46095499.fm, out/chr22_46095499/sam1_chr22_46095499_fa.fa
+Processing region: chr22_46366255
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46366255/sam1_chr22_46366255.fm, out/chr22_46366255/sam1_chr22_46366255_fa.fa
+Processing region: chr22_46469974
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46469974/sam1_chr22_46469974.fm, out/chr22_46469974/sam1_chr22_46469974_fa.fa
+Processing region: chr22_46469974
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46469974/sam1_chr22_46469974.fm, out/chr22_46469974/sam1_chr22_46469974_fa.fa
+Processing region: chr22_46643160
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46643160/sam1_chr22_46643160.fm, out/chr22_46643160/sam1_chr22_46643160_fa.fa
+Processing region: chr22_46680587
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46680587/sam1_chr22_46680587.fm, out/chr22_46680587/sam1_chr22_46680587_fa.fa
+Processing region: chr22_46878326
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_46878326/sam1_chr22_46878326.fm, out/chr22_46878326/sam1_chr22_46878326_fa.fa
+Processing region: chr22_47065611
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47065611/sam1_chr22_47065611.fm, out/chr22_47065611/sam1_chr22_47065611_fa.fa
+Processing region: chr22_47091306
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47091306/sam1_chr22_47091306.fm, out/chr22_47091306/sam1_chr22_47091306_fa.fa
+Processing region: chr22_47097066
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47097066/sam1_chr22_47097066.fm, out/chr22_47097066/sam1_chr22_47097066_fa.fa
+Processing region: chr22_47128216
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47128216/sam1_chr22_47128216.fm, out/chr22_47128216/sam1_chr22_47128216_fa.fa
+Processing region: chr22_47170603
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47170603/sam1_chr22_47170603.fm, out/chr22_47170603/sam1_chr22_47170603_fa.fa
+Processing region: chr22_47172047
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47172047/sam1_chr22_47172047.fm, out/chr22_47172047/sam1_chr22_47172047_fa.fa
+Processing region: chr22_47344998
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47344998/sam1_chr22_47344998.fm, out/chr22_47344998/sam1_chr22_47344998_fa.fa
+Processing region: chr22_47379348
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47379348/sam1_chr22_47379348.fm, out/chr22_47379348/sam1_chr22_47379348_fa.fa
+Processing region: chr22_47549003
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47549003/sam1_chr22_47549003.fm, out/chr22_47549003/sam1_chr22_47549003_fa.fa
+Processing region: chr22_47549003
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47549003/sam1_chr22_47549003.fm, out/chr22_47549003/sam1_chr22_47549003_fa.fa
+Processing region: chr22_47613316
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47613316/sam1_chr22_47613316.fm, out/chr22_47613316/sam1_chr22_47613316_fa.fa
+Processing region: chr22_47654580
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47654580/sam1_chr22_47654580.fm, out/chr22_47654580/sam1_chr22_47654580_fa.fa
+Processing region: chr22_47679656
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47679656/sam1_chr22_47679656.fm, out/chr22_47679656/sam1_chr22_47679656_fa.fa
+Processing region: chr22_47810015
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_47810015/sam1_chr22_47810015.fm, out/chr22_47810015/sam1_chr22_47810015_fa.fa
+Processing region: chr22_48117392
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48117392/sam1_chr22_48117392.fm, out/chr22_48117392/sam1_chr22_48117392_fa.fa
+Processing region: chr22_48414812
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48414812/sam1_chr22_48414812.fm, out/chr22_48414812/sam1_chr22_48414812_fa.fa
+Processing region: chr22_48583676
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48583676/sam1_chr22_48583676.fm, out/chr22_48583676/sam1_chr22_48583676_fa.fa
+Processing region: chr22_48605186
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48605186/sam1_chr22_48605186.fm, out/chr22_48605186/sam1_chr22_48605186_fa.fa
+Processing region: chr22_48620608
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48620608/sam1_chr22_48620608.fm, out/chr22_48620608/sam1_chr22_48620608_fa.fa
+Processing region: chr22_48620724
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48620724/sam1_chr22_48620724.fm, out/chr22_48620724/sam1_chr22_48620724_fa.fa
+Processing region: chr22_48641049
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48641049/sam1_chr22_48641049.fm, out/chr22_48641049/sam1_chr22_48641049_fa.fa
+Processing region: chr22_48666490
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48666490/sam1_chr22_48666490.fm, out/chr22_48666490/sam1_chr22_48666490_fa.fa
+Processing region: chr22_48736357
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48736357/sam1_chr22_48736357.fm, out/chr22_48736357/sam1_chr22_48736357_fa.fa
+Processing region: chr22_48757178
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48757178/sam1_chr22_48757178.fm, out/chr22_48757178/sam1_chr22_48757178_fa.fa
+Processing region: chr22_48757439
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48757439/sam1_chr22_48757439.fm, out/chr22_48757439/sam1_chr22_48757439_fa.fa
+Processing region: chr22_48797462
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48797462/sam1_chr22_48797462.fm, out/chr22_48797462/sam1_chr22_48797462_fa.fa
+Processing region: chr22_48850334
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48850334/sam1_chr22_48850334.fm, out/chr22_48850334/sam1_chr22_48850334_fa.fa
+Processing region: chr22_48850378
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48850378/sam1_chr22_48850378.fm, out/chr22_48850378/sam1_chr22_48850378_fa.fa
+Processing region: chr22_48872644
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48872644/sam1_chr22_48872644.fm, out/chr22_48872644/sam1_chr22_48872644_fa.fa
+Processing region: chr22_48916338
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48916338/sam1_chr22_48916338.fm, out/chr22_48916338/sam1_chr22_48916338_fa.fa
+Processing region: chr22_48948501
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48948501/sam1_chr22_48948501.fm, out/chr22_48948501/sam1_chr22_48948501_fa.fa
+Processing region: chr22_48956876
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_48956876/sam1_chr22_48956876.fm, out/chr22_48956876/sam1_chr22_48956876_fa.fa
+Processing region: chr22_49029645
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49029645/sam1_chr22_49029645.fm, out/chr22_49029645/sam1_chr22_49029645_fa.fa
+Processing region: chr22_49071234
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49071234/sam1_chr22_49071234.fm, out/chr22_49071234/sam1_chr22_49071234_fa.fa
+Processing region: chr22_49164425
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49164425/sam1_chr22_49164425.fm, out/chr22_49164425/sam1_chr22_49164425_fa.fa
+Processing region: chr22_49168494
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49168494/sam1_chr22_49168494.fm, out/chr22_49168494/sam1_chr22_49168494_fa.fa
+Processing region: chr22_49195444
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49195444/sam1_chr22_49195444.fm, out/chr22_49195444/sam1_chr22_49195444_fa.fa
+Processing region: chr22_49237653
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49237653/sam1_chr22_49237653.fm, out/chr22_49237653/sam1_chr22_49237653_fa.fa
+Processing region: chr22_49274863
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49274863/sam1_chr22_49274863.fm, out/chr22_49274863/sam1_chr22_49274863_fa.fa
+Processing region: chr22_49276653
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49276653/sam1_chr22_49276653.fm, out/chr22_49276653/sam1_chr22_49276653_fa.fa
+Processing region: chr22_49365996
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49365996/sam1_chr22_49365996.fm, out/chr22_49365996/sam1_chr22_49365996_fa.fa
+Processing region: chr22_49366077
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49366077/sam1_chr22_49366077.fm, out/chr22_49366077/sam1_chr22_49366077_fa.fa
+Processing region: chr22_49446919
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49446919/sam1_chr22_49446919.fm, out/chr22_49446919/sam1_chr22_49446919_fa.fa
+Processing region: chr22_49469337
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49469337/sam1_chr22_49469337.fm, out/chr22_49469337/sam1_chr22_49469337_fa.fa
+Processing region: chr22_49657050
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49657050/sam1_chr22_49657050.fm, out/chr22_49657050/sam1_chr22_49657050_fa.fa
+Processing region: chr22_49690587
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49690587/sam1_chr22_49690587.fm, out/chr22_49690587/sam1_chr22_49690587_fa.fa
+Processing region: chr22_49760482
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49760482/sam1_chr22_49760482.fm, out/chr22_49760482/sam1_chr22_49760482_fa.fa
+Processing region: chr22_49926744
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49926744/sam1_chr22_49926744.fm, out/chr22_49926744/sam1_chr22_49926744_fa.fa
+Processing region: chr22_49973528
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_49973528/sam1_chr22_49973528.fm, out/chr22_49973528/sam1_chr22_49973528_fa.fa
+Processing region: chr22_50009894
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50009894/sam1_chr22_50009894.fm, out/chr22_50009894/sam1_chr22_50009894_fa.fa
+Processing region: chr22_50063786
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50063786/sam1_chr22_50063786.fm, out/chr22_50063786/sam1_chr22_50063786_fa.fa
+Processing region: chr22_50147181
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50147181/sam1_chr22_50147181.fm, out/chr22_50147181/sam1_chr22_50147181_fa.fa
+Processing region: chr22_50205064
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50205064/sam1_chr22_50205064.fm, out/chr22_50205064/sam1_chr22_50205064_fa.fa
+Processing region: chr22_50212683
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50212683/sam1_chr22_50212683.fm, out/chr22_50212683/sam1_chr22_50212683_fa.fa
+Processing region: chr22_50235263
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50235263/sam1_chr22_50235263.fm, out/chr22_50235263/sam1_chr22_50235263_fa.fa
+Processing region: chr22_50276362
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50276362/sam1_chr22_50276362.fm, out/chr22_50276362/sam1_chr22_50276362_fa.fa
+Processing region: chr22_50312637
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50312637/sam1_chr22_50312637.fm, out/chr22_50312637/sam1_chr22_50312637_fa.fa
+Processing region: chr22_50316929
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50316929/sam1_chr22_50316929.fm, out/chr22_50316929/sam1_chr22_50316929_fa.fa
+Processing region: chr22_50351292
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50351292/sam1_chr22_50351292.fm, out/chr22_50351292/sam1_chr22_50351292_fa.fa
+Processing region: chr22_50397614
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50397614/sam1_chr22_50397614.fm, out/chr22_50397614/sam1_chr22_50397614_fa.fa
+Processing region: chr22_50488466
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50488466/sam1_chr22_50488466.fm, out/chr22_50488466/sam1_chr22_50488466_fa.fa
+Processing region: chr22_50495457
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50495457/sam1_chr22_50495457.fm, out/chr22_50495457/sam1_chr22_50495457_fa.fa
+Processing region: chr22_50504057
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50504057/sam1_chr22_50504057.fm, out/chr22_50504057/sam1_chr22_50504057_fa.fa
+Processing region: chr22_50643904
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50643904/sam1_chr22_50643904.fm, out/chr22_50643904/sam1_chr22_50643904_fa.fa
+Processing region: chr22_50683758
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50683758/sam1_chr22_50683758.fm, out/chr22_50683758/sam1_chr22_50683758_fa.fa
+Processing region: chr22_50686535
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50686535/sam1_chr22_50686535.fm, out/chr22_50686535/sam1_chr22_50686535_fa.fa
+Processing region: chr22_50697545
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50697545/sam1_chr22_50697545.fm, out/chr22_50697545/sam1_chr22_50697545_fa.fa
+Processing region: chr22_50800134
+abpoa command executed successfully.
+abpoa -r 1 command executed successfully.
+Error: One or both input files are empty - out/chr22_50800134/sam1_chr22_50800134.fm, out/chr22_50800134/sam1_chr22_50800134_fa.fa

@@ -1,0 +1,1 @@
+/home/user/liyang/project/methSV/github/methSV/nextflow/meth_del_static.sh

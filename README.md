@@ -12,8 +12,6 @@
 
 **methSV** is a robust and scalable Nextflow-based framework for extracting and analyzing DNA methylation signals within structural variation (SV) regions using long-read sequencing data.
 
----
-
 ## Table of Content
 
 - [Features](#features)
@@ -26,16 +24,11 @@
 - [Citation](#citation)
 - [Contact](#contact)
 
----
-
-
 ## Feature
 
 - Processes, filters, and standardizes SV VCF files for downstream methylation analysis
 - Extracts CpG methylation signals from heterozygous deletions (DELs) recorded in the VCF
 - Retrieves insertion (INS)-associated CpG methylation signals directly from the BAM file
-
----
 
 ## Repository Structure
 
@@ -65,7 +58,6 @@ mv nextflow ~/bin/
 ```
 Or use ./nextflow directly in the repo if not moved to your PATH.
 
-
 ### 3. Quickstart
 
 A minimal test dataset is provided in the demo/ directory. You can test the pipeline as follows:
@@ -78,7 +70,6 @@ nextflow run methSV.nf \
     --methylation_bed ../demo/genome.pos \
     --input_bam ../demo/sam1_chr22_head-5000.bam
 ```
----
 
 ## Runing
 
@@ -105,8 +96,6 @@ Required parameters:
 | `--genome_file`     | Genome feature position file (e.g., for computing distance) |
 | `--input_bam`       | BAM file aligned to reference genome using ONT reads        |
 
----
-
 ## Release
 
 ### v1.1 Release Notes
@@ -121,8 +110,5 @@ If you use methSV in your work, please cite:
 
 Li Y. et al. "methSV: A Long-Read-Based Framework for Profiling DNA Methylation in Structural Variation" (in preparation, 2025)
 
----
-
 ## Contact
 For any questions, please contact [email](yli21b@hit.edu.cn)
-

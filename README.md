@@ -37,6 +37,10 @@ methSV/
 ├── nextflow/ # Main Nextflow pipeline and modules
 ├── demo/ # Demo dataset for quick testing
 ├── data/ # Published results used in our study
+│ ├── exp_statistic/ # Extracted methylation experimental results
+│ ├── exp_pDMR/ # pDMR (population DMR) experimental results
+│ ├── exp_hDMR/ # hDMR (heterozygous DMR) experimental results
+│ └── exp_enrichment/ # Functional enrichment analysis results
 ├── work/ # Nextflow run result instance
 └── shell/ # Shell scripts for preprocessing and analysis
 ```
@@ -95,6 +99,22 @@ Required parameters:
 | `--methylation_bed` | BED file containing CpG methylation calls                   |
 | `--genome_file`     | Genome feature position file (e.g., for computing distance) |
 | `--input_bam`       | BAM file aligned to reference genome using ONT reads        |
+
+## Processing
+
+Before running the core `methSV` pipeline, users must preprocess the raw sequencing data to extract structural variants (SVs) and base-resolution DNA methylation profiles.
+
+We have also provide our own preprocessing scripts:
+
+| Script Name                 | Description                                                | Example Command                                                          |
+| --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| `down_giab_pod5.sh` |    | ` `|
+| `dorado_basecaller_align_methcall.sh` |    | ` `                                   |
+| `samtools_sort_index_bam.sh`      |  | ` `                  |
+| `samtools_filter_mapq.sh`        |                     | ` `                             |
+| `sniffles_callSV_bam.sh`             |    | ` ` |
+| `clair_callSNV_bam.sh`             |    | ` ` |
+
 
 ## Release
 

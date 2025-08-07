@@ -17,8 +17,11 @@
 - [Features](#features)
 - [Repository Structure](#repository-structure)
 - [Installation](#installation)
-- [Quickstart](#quickstart)
+    - [Clone](#clone-the-repository)
+    - [Install](#install-nextflow)
+    - [Quickstart](#quickstart)
 - [Running](#running)
+- [Processing](#processing)
 - [Release](#release)
     - [v1.1 Release Notes](#v11-release-notes)
 - [Citation](#citation)
@@ -75,7 +78,7 @@ nextflow run methSV.nf \
     --input_bam ../demo/sam1_chr22_head-5000.bam
 ```
 
-## Runing
+## Running
 
 To run methSV on your own dataset, use the following command:
 

@@ -27,7 +27,7 @@
 - [Citation](#citation)
 - [Contact](#contact)
 
-## Feature
+## Features
 
 - Processes, filters, and standardizes SV VCF files for downstream methylation analysis
 - Extracts CpG methylation signals from heterozygous deletions (DELs) recorded in the VCF
@@ -50,14 +50,14 @@ methSV/
 
 ## Installation
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/YLeeHIT/methSV.git
 cd methSV
 ```
 
-### 2. Install Nextflow
+### Install Nextflow
 
 ```bash
 curl -s https://get.nextflow.io | bash
@@ -65,7 +65,7 @@ mv nextflow ~/bin/
 ```
 Or use ./nextflow directly in the repo if not moved to your PATH.
 
-### 3. Quickstart
+### Quickstart
 
 A minimal test dataset is provided in the demo/ directory. You can test the pipeline as follows:
 ```

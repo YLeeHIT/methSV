@@ -106,14 +106,16 @@ Before running the core `methSV` pipeline, users must preprocess the raw sequenc
 
 We have also provide our own preprocessing scripts:
 
-| Script Name                 | Description                                                | Example Command                                                          |
-| --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
-| `down_giab_pod5.sh` |    | ` `|
-| `dorado_basecaller_align_methcall.sh` |    | ` `                                   |
-| `samtools_sort_index_bam.sh`      |  | ` `                  |
-| `samtools_filter_mapq.sh`        |                     | ` `                             |
-| `sniffles_callSV_bam.sh`             |    | ` ` |
-| `clair_callSNV_bam.sh`             |    | ` ` |
+| Script Name                           | Description                                                | Example Command                                                          |
+| ------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| `download_giab_pod5.sh`               | Download GIAB HG002–HG007 pod5 files from ONT S3 bucket    | `bash download_giab_pod5.sh `                                            |
+| `dorado_basecaller_align_methcall.sh` | Perform basecalling, alignment, and methylation calling    | `bash dorado_basecaller_align_methcall.sh <sample_id> `                  |
+| `samtools_sort_index_bam.sh`          | Sort and index a BAM file                                  | `bash samtools_sort_index_bam.sh <input.bam> <threads> `                 |
+| `samtools_filter_mapq.sh`             | Filter reads from BAM file                                 | `bash samtools_filter_mapq.sh <input.bam> <output.bam> [threads] `       |
+| `modkit_pileup_bam.sh`                | Extract base-resolution methylation from BAM               | `bash modkit_pileup_bam.sh <input_bam> <output_bed> <reference_fasta> `  |
+| `sniffles_callSV_bam.sh`              | Call SVs from a BAM file                                   | `bash sniffles_callSV_bam.sh <input.bam> <output.vcf> <threads> <reference.fa> ` |
+| `clair_callSNV_bam.sh`                | Call SNVs and filter                                       | `bash clair_callSNV_bam.sh <input_bam> <sample_id> <threads> <ref_genome> <model_path> <clair3_script> <output_dir>` |
+| `metilene_dmr.sh`                     | Identify DMRs between two groups using metilene            | `bash metilene_dmr.sh <group1> <group2> <root_dir> <threads>`            |
 
 
 ## Release

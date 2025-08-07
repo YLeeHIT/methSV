@@ -1,11 +1,11 @@
 #!/bin/bash
 # ===============================
-# Script: run_modkit_pileup.sh
+# Script: modkit_pileup_bam.sh
 # Description:
 #   Run modkit pileup to extract base-resolution methylation from BAM
 #
 # Usage:
-#   ./run_modkit_pileup.sh <input_bam> <output_bed> <reference_fasta>
+#   ./modkit_pileup_bam.sh <input_bam> <output_bed> <reference_fasta>
 #
 # Inputs:
 #   <input_bam>       - Aligned BAM file with methylation tags

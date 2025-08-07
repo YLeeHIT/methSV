@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # ===============================
-# Script: run_dorado_align_methylation.sh
+# Script: dorado_basecaller_align_methcall.sh
 # Description:
 #   Perform basecalling, alignment, and methylation calling
 #   using Dorado with modified base detection
 #
 # Usage:
-#   ./run_dorado_align_methylation.sh <sample_id>
+#   ./dorado_basecaller_align_methcall.sh <sample_id>
 #
 # Inputs:
 #   <sample_id> - Sample ID used to locate input/output paths
